@@ -1,0 +1,10 @@
+item = input("What item do you want to dispose of? ").lower()
+
+bins = {
+    "paper": "Paper Bin",
+    "banana peel": "Compost Bin",
+    "plastic bottle": "Plastic Bin",
+    "can": "Metal Bin"
+}
+
+print(f"🗑️ Suggested bin: {bins.get(item, 'Unknown - check local guide')}")
