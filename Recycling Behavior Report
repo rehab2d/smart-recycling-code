@@ -1,0 +1,9 @@
+data = {
+    "Ali": 5,
+    "Lina": 2,
+    "Omar": 8
+}
+
+print("♻️ Recycling Report:")
+for person, items in data.items():
+    print(f"{person}: {items} items recycled this week")
