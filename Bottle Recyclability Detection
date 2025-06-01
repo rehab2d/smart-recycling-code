@@ -1,0 +1,6 @@
+material = input("Enter bottle material: ").lower()
+
+if material in ["glass", "plastic", "metal"]:
+    print("✅ Recyclable")
+else:
+    print("❌ Not recyclable")
