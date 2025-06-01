@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head><title>Recycling Game</title></head>
+<h1> rehab<h1>
 <body>
 <h2>Choose the correct bin for: Banana Peel</h2>
 <button onclick="alert('✅ Correct! Organic waste')">Compost Bin</button>
