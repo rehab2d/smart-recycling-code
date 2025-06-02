@@ -1,5 +1,5 @@
 item = input("What item do you want to dispose of? ").lower()
-
+<h1>  ttttt<h1>
 bins = {
     "paper": "Paper Bin",
     "banana peel": "Compost Bin",
