@@ -3,6 +3,6 @@ waste = input("Enter type of waste: ").lower()
 hazardous_items = ["battery", "chemical", "paint", "medicine"]
 
 if waste in hazardous_items:
-    print("⚠️ Hazardous Waste! Handle with care.")
+    print("⚠️ Hazardous Waste! Handle with care aaaaaa.")
 else:
     print("✅ Safe waste.")
